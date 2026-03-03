@@ -43,11 +43,11 @@ let vetor2: number[] = [0,1,2,3,4]
 vetor2 = [0,1,2,3,4]
 
 let outraletra: number|string = 10 ;
-outraletra="GUilherme"
+outraletra="Kaynan"
 
 const obj1:{id?:number;nome:string;idade:number} = {
     id:1,
-    nome:"Guilherme",
+    nome:"Kaynan",
     idade:31
 }
 
